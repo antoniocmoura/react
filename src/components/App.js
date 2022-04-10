@@ -4,7 +4,6 @@ import { Title, Subtitle, Item } from './Styles/styles'
 import Skill from './Skill'
 
 function App() {
-    const [value, setValue] = React.useState(2);
     return (
         <div>
             <Title>Antonio Carlos de Moura
